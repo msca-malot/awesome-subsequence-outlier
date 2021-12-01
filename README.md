@@ -10,7 +10,8 @@
 
 ### survey
 
-- [ACM TMIS 2020] Trajectory Outlier Detection: Algorithms, Taxonomies, Evaluation, and Open Challenges
+- [Artificial Intelligence Review 2018] An overview on trajectory outlier detection <img src="check-square-regular.svg" width="15" height="15">
+- [ACM TMIS 2020] Trajectory Outlier Detection: Algorithms, Taxonomies, Evaluation, and Open Challenges <img src="check-square-regular.svg" width="15" height="15">
 
 ### specific
 
@@ -39,3 +40,10 @@ usually ground truth is synthesized; random noise-injection approaches.
 F-measures and AUC (accuracy of finding outlier (sub-)trajectories from inlier ones)
 
 ## anomalous time-series
+
+
+### specifics
+
+- [ICDE 2019] Automated Anomaly Detection in Large Sequences (SAD) <img src="check-square-regular.svg" width="15" height="15">
+- [VLDB 2020] Series2Graph: Graph-based Subsequence Anomaly Detection for Time Series <img src="check-square-regular.svg" width="15" height="15">
+- [VLDB 2021] SAND: Streaming Subsequence Anomaly Detection <img src="check-square-regular.svg" width="15" height="15">
