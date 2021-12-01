@@ -14,16 +14,16 @@
 
 ### specific
 
-- [KDD 2009] Efficient anomaly monitoring over moving object trajectory streams
+- [KDD 2009] Efficient anomaly monitoring over moving object trajectory streams <img src="check-square-regular.svg" width="15" height="15">
 - [CIKM 2010] TOP-EYE: Top-k evolving trajectory outlier detection
 - [UbiComp 2011] iBAT: Detecting anomalous taxi trajectories from GPS traces
 - [KDD 2016] Mantra: A scalable approach to mining temporally anomalous sub-trajectories
 - [TITS 2013] iBOAT:Isolation-based online anomalous trajectory detection <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
-- [MNA 2013] Real time anomalous trajectory detection and analysis (extension of iBOAT)
+- [MNA 2013] Real time anomalous trajectory detection and analysis (extension of iBOAT) <img src="check-square-regular.svg" width="15" height="15">
 - [TKDD 2014] Anomaly detection from incomplete data (BT-miner) <img src="star-solid.svg" width="15" height="15">
 - [PMC 2015] Disorientation detection by mining GPS trajectories for cognitively-impaired elders (iBDD) <img src="star-solid.svg" width="15" height="15">
-- [ICPR 2016] Granular trajectory based anomaly detection for surveillance (ROSE) <img src="star-solid.svg" width="15" height="15">
-- [TODS 2017] Outlier detection over massive-scale trajectory streams (TN-outlier) <img src="star-solid.svg" width="15" height="15">
+- [ICPR 2016] Granular trajectory based anomaly detection for surveillance (ROSE) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
+- [TODS 2017] Outlier detection over massive-scale trajectory streams (TN-outlier) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 
 ### datasets
 
