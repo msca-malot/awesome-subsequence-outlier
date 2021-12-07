@@ -25,6 +25,7 @@
 - [PMC 2015] Disorientation detection by mining GPS trajectories for cognitively-impaired elders (iBDD) <img src="star-solid.svg" width="15" height="15">
 - [ICPR 2016] Granular trajectory based anomaly detection for surveillance (ROSE) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [TODS 2017] Outlier detection over massive-scale trajectory streams (TN-outlier) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
+- [PAKDD 2018] Sub-trajectory- and Trajectory-Neighbor-based Outlier Detection over Trajectory Streams
 
 ### datasets
 
