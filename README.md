@@ -32,7 +32,7 @@
 
 #### subtrajectory clustering
 
-- [SIGMOD 2018] Subtrajectory Clustering: Models and Algorithms <img src="star-solid.svg" width="15" height="15">
+- [PODS 2018] Subtrajectory Clustering: Models and Algorithms <img src="star-solid.svg" width="15" height="15">
 - [Big Data 2019] Scalable distributed subtrajectory clustering
 
 ### datasets
