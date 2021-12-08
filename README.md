@@ -3,29 +3,40 @@
 ## general
 
 - [TKDE 2010] Anomaly detection for discrete sequences: A survey
+- [IJCA 2012] Recent Techniques of Clustering of Time Series Data: A Survey <img src="check-square-regular.svg" width="15" height="15">
+- [Information Systems 2015] Time-series clustering – A decade review <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [ACM CSUR 2018] Spatio-temporal data mining: A survey of problems and methods
-- [IJIM 2019] Real-time big data processing for anomaly detection: A survey
+- [IJIM 2019] Real-time big data processing for anomaly detection: A survey <img src="star-solid.svg" width="15" height="15">
 
 ## anomalous trajectories
 
 ### survey
 
-- [Artificial Intelligence Review 2018] An overview on trajectory outlier detection <img src="check-square-regular.svg" width="15" height="15">
+- [Artificial Intelligence Review 2018] An overview on trajectory outlier detection <img src="check-square-regular.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [ACM TMIS 2020] Trajectory Outlier Detection: Algorithms, Taxonomies, Evaluation, and Open Challenges <img src="check-square-regular.svg" width="15" height="15">
 
 ### specific
+
+#### anomaloy detection
 
 - [KDD 2009] Efficient anomaly monitoring over moving object trajectory streams <img src="check-square-regular.svg" width="15" height="15">
 - [CIKM 2010] TOP-EYE: Top-k evolving trajectory outlier detection
 - [UbiComp 2011] iBAT: Detecting anomalous taxi trajectories from GPS traces
 - [KDD 2016] Mantra: A scalable approach to mining temporally anomalous sub-trajectories
-- [TITS 2013] iBOAT:Isolation-based online anomalous trajectory detection <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
+- [TITS 2013] iBOAT: Isolation-based online anomalous trajectory detection <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [MNA 2013] Real time anomalous trajectory detection and analysis (extension of iBOAT) <img src="check-square-regular.svg" width="15" height="15">
 - [TKDD 2014] Anomaly detection from incomplete data (BT-miner) <img src="star-solid.svg" width="15" height="15">
 - [PMC 2015] Disorientation detection by mining GPS trajectories for cognitively-impaired elders (iBDD) <img src="star-solid.svg" width="15" height="15">
 - [ICPR 2016] Granular trajectory based anomaly detection for surveillance (ROSE) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [TODS 2017] Outlier detection over massive-scale trajectory streams (TN-outlier) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
-- [PAKDD 2018] Sub-trajectory- and Trajectory-Neighbor-based Outlier Detection over Trajectory Streams
+- [PAKDD 2018] Sub-trajectory- and Trajectory-Neighbor-based Outlier Detection over Trajectory Streams <img src="check-square-regular.svg" width="15" height="15">
+- [SDM 2019] Outlier Detection over Distributed Trajectory Streams <img src="check-square-regular.svg" width="15" height="15">
+- [TIST 2021] Feature Grouping–based Trajectory Outlier Detection over Distributed Streams
+
+#### subtrajectory clustering
+
+- [SIGMOD 2018] Subtrajectory Clustering: Models and Algorithms <img src="star-solid.svg" width="15" height="15">
+- [Big Data 2019] Scalable distributed subtrajectory clustering
 
 ### datasets
 
@@ -42,9 +53,14 @@ F-measures and AUC (accuracy of finding outlier (sub-)trajectories from inlier o
 
 ## anomalous time-series
 
-
 ### specifics
+
+#### anomaloy detection
 
 - [ICDE 2019] Automated Anomaly Detection in Large Sequences (SAD) <img src="check-square-regular.svg" width="15" height="15">
 - [VLDB 2020] Series2Graph: Graph-based Subsequence Anomaly Detection for Time Series <img src="check-square-regular.svg" width="15" height="15">
 - [VLDB 2021] SAND: Streaming Subsequence Anomaly Detection <img src="check-square-regular.svg" width="15" height="15">
+
+#### subsequence clustering
+
+- [SIGMOD 2015] k-Shape: Efficient and Accurate Clustering of Time Series
