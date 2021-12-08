@@ -2,9 +2,6 @@
 
 ## general
 
-- [TKDE 2010] Anomaly detection for discrete sequences: A survey
-- [IJCA 2012] Recent Techniques of Clustering of Time Series Data: A Survey <img src="check-square-regular.svg" width="15" height="15">
-- [Information Systems 2015] Time-series clustering – A decade review <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [ACM CSUR 2018] Spatio-temporal data mining: A survey of problems and methods
 - [IJIM 2019] Real-time big data processing for anomaly detection: A survey <img src="star-solid.svg" width="15" height="15">
 
@@ -52,6 +49,12 @@ usually ground truth is synthesized; random noise-injection approaches.
 F-measures and AUC (accuracy of finding outlier (sub-)trajectories from inlier ones)
 
 ## anomalous time-series
+
+### survey
+
+- [TKDE 2010] Anomaly detection for discrete sequences: A survey
+- [IJCA 2012] Recent Techniques of Clustering of Time Series Data: A Survey <img src="check-square-regular.svg" width="15" height="15">
+- [Information Systems 2015] Time-series clustering – A decade review <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 
 ### specifics
 
