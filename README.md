@@ -57,9 +57,9 @@ F-measures and AUC (accuracy of finding outlier (sub-)trajectories from inlier o
 
 #### anomaloy detection
 
-- [ICDE 2019] Automated Anomaly Detection in Large Sequences (SAD) <img src="check-square-regular.svg" width="15" height="15">
+- [ICDE 2019] Automated Anomaly Detection in Large Sequences (SAD) <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 - [VLDB 2020] Series2Graph: Graph-based Subsequence Anomaly Detection for Time Series <img src="check-square-regular.svg" width="15" height="15">
-- [VLDB 2021] SAND: Streaming Subsequence Anomaly Detection <img src="check-square-regular.svg" width="15" height="15">
+- [VLDB 2021] SAND: Streaming Subsequence Anomaly Detection <img src="star-solid.svg" width="15" height="15"> <img src="check-square-regular.svg" width="15" height="15">
 
 #### subsequence clustering
 
